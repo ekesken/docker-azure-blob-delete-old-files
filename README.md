@@ -1,4 +1,4 @@
-# docker-rabbitmq
+# docker-azure-blob-delete-old-files
 docker image to delete old files from an azure storage container.
 
 ## build
